@@ -1,0 +1,45 @@
+# Intelligent Recommendation System
+
+## Description
+This project is developed as part of an AI Internship.
+It implements an intelligent recommendation system that suggests items to users based on their preferences using machine learning techniques.
+
+## Objectives
+- Analyze user behavior data
+- Build a recommendation model
+- Generate personalized recommendations
+
+## Features
+- Data preprocessing
+- Model training
+- Recommendation generation
+- Model evaluation
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Project Structure
+- data_preprocessing.py
+- recommendation_model.py
+- train.py
+- evaluate.py
+- README.md
+
+## How to Run
+1. Install required libraries  
+   pip install -r requirements.txt
+2. Run preprocessing  
+   python data_preprocessing.py
+3. Train model  
+   python train.py
+4. Evaluate model  
+   python evaluate.py
+
+## Outcome
+The system provides personalized recommendations based on user interaction data.
+
+## Author
+Ankita Baddoli
